@@ -1,0 +1,248 @@
+@charset "utf-8";
+body{
+	background-color: hotpink;
+}
+h1{
+	color: whitesmoke;
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 2px 2px black; 
+}
+h3{
+	color: yellow;
+	text-align: center;
+}
+.magicwand{
+	position: absolute;
+	top: 30px;
+	left: 150px;
+}
+.fashion{
+	position:absolute;
+	top:30px;
+	right: 150px;
+}
+.fashionweek{
+	position:absolute;
+	top: 100px;
+}
+.hearteyes{
+	position: absolute; 
+	top: 100px;
+	right: 20px;
+}
+.downarrow{
+	position: absolute;
+	right: 650px;
+	transform: rotate(90deg);
+}
+.avatar{
+	position: absolute;
+	top: 700px;
+	right: 600px;
+}
+p3{
+	position: absolute;
+	top:675px;
+	right: 625px;
+	color: blue;
+	text-shadow: 1px 1px black;
+}
+.qr{ 
+	position: absolute;
+	top: 300px;
+	right: 100px;
+}
+p1{
+	position: absolute;
+	top: 275px;
+	right: 75px;
+	color: white;
+}
+button{
+	position: absolute;
+	top: 250px;
+	left: 150px;
+}
+button2{ 
+position:absolute;
+	width: 150px;
+	height: 25px;
+	top: 400px;
+	right: 350px;
+	background-color: white;
+	text-align: center;
+}
+.dress1{
+	position: absolute;
+	top:1200px;
+	right:750px;
+}
+.dress2{
+	position:absolute;
+	top:1200px;
+	right:550px;
+}
+.doggif{
+	position: absolute;
+	top: 200px;
+	left: 350px;
+}
+.minion{
+	position:absolute;
+	top:500px;
+	right:300px;
+}
+.lisafrank{
+	position: absolute;
+	top:700px;
+	left:10px;
+	opacity: 0.15;
+	transition: left 1s, opacity 3s;
+}
+.lisafank:hover{ 
+	left: 40px;
+	opacity: 1;
+}
+#picture img{
+	width: 20%;
+	height: 20%;
+	border:1px solid #000000;
+display:inline-block;
+margin-left:0;
+margin-right:0;
+opacity:0.4;
+}
+#picture img:hover{
+opacity:1.0;
+left: 40px;
+}
+
+.checkbox{
+	position: absolute;
+	top: 1425px;
+	right: 825px;
+	display: inline-flex;
+	align-items: center; 
+	cursor: pointer;
+}
+.checkbox2{
+	position: absolute;
+	top: 1425px;
+	right: 625px;
+	display: inline-flex;
+	align-items: center; 
+	cursor: pointer;
+}
+p2{
+	color: purple;
+	position: absolute;
+	top: 1150px; 
+	right: 650px;
+	text-decoration: underline;
+	text-shadow: 1px 1px;
+}
+.heel{
+	position: absolute;
+	top: 1500px;
+	right: 600px;
+}
+.sneaker{
+	position: absolute;
+	top: 1500px;
+	right: 800px;
+}
+.checkbox3{
+	position: absolute;
+	top: 1600px;
+	right: 625px;
+	display: inline-flex;
+	align-items: center; 
+	cursor: pointer;
+}
+.checkbox4{
+	position: absolute;
+	top: 1600px;
+	right: 825px;
+	display: inline-flex;
+	align-items: center; 
+	cursor: pointer;
+}
+.Viddeo{
+  position: absolute;
+	top: 350px;
+  left: 30px;
+}
+.cap{
+	position: absolute;
+	top: 1650px;
+	right: 800px;
+}
+.checkbox5{
+	position: absolute;
+	top: 1750px;
+	left:650px;
+	display: inline-flex;
+	align-items: center; 
+	cursor: pointer;
+}
+.hat{
+	position: absolute;
+	top: 1650px;
+	right: 600px;
+}
+.checkbox6{
+	position: absolute;
+	top: 1750px;
+	right:625px;
+	display: inline-flex;
+	align-items: center; 
+	cursor: pointer;
+}
+.pearls{
+	position: absolute;
+	top: 1800px;
+	right: 790px;
+}
+.checkbox7{
+	position: absolute;
+	top: 1910px;
+	right:790px;
+	display: inline-flex;
+	align-items: center; 
+	cursor: pointer;
+}
+.necklace{
+	position: absolute;
+	top: 1800px;
+	right: 600px;
+}
+.checkbox8{
+	position: absolute;
+	top: 1910px;
+	right:600px;
+	display: inline-flex;
+	align-items: center; 
+	cursor: pointer;
+}
+button3{
+	position: absolute;
+	top: 2000px;
+	right: 700px;
+	padding: 10px;
+	background: white;
+	cursor: pointer;
+}
+button4{
+	position:absolute;
+	top:200px;
+	right:200px;
+	background-color: white;
+}
+button5{
+	position:absolute;
+	top: 450px; 
+	right: 400px;
+	background-color: black;
+	color:white;
+}
